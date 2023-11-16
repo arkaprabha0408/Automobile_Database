@@ -1,0 +1,1 @@
+insert into sales(SaleDate,VIN,CustomerId,SalePrice) values("2023-10-12","c121920238789931",2,1200000);
